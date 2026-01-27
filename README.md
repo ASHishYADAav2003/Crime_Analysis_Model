@@ -7,7 +7,7 @@ Machine learning model for crime trend prediction
 Performance evaluation using standard metrics
 
 
-🧠 Technologies Used
+🧠 Technologies Used:
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
