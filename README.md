@@ -11,4 +11,4 @@ Performance evaluation using standard metrics
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
-Scikit-learn
+Scikit-learn.
